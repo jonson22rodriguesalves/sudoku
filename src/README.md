@@ -146,6 +146,7 @@ classDiagram
      Main --> BoardTemplate : Uses for display
   
 ````
+
 * [Início]
 * ↓
 * [Menu Principal]
